@@ -12,6 +12,7 @@ General:
  - Enforcing
  - Fully fixed denial address with enforcing
  - Fully fixed prop permission issue with enforcing
+ - Passed CTS Safetynet
  - Bump xRage into General Settings
  - Bump Dirac into xRage
  - Bump Hotword Enrollment ( OK Google ) blobs
