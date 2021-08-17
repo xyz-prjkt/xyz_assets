@@ -1,8 +1,17 @@
 # xdroid | Xiaomi Redmi Note 7 Specific Changes
+## 17/08/2021 | lavender
+Mainline:
+ - Upstreamed `xBoreUp.strmbreakr to 4.4.280`
+ - Updated toolchain `xRageTC Clang 14 20210723`
+
+General:
+ - Import xRage Zone
+ - Enabled FM Radio
+
 ## 23/07/2021 | lavender
 Mainline:
  - Upstreamed `xBoreUp.strmbreakr to 4.4.276`
- - Updated toolchain `xRageTC Clang 20210723`
+ - Updated toolchain `xRageTC Clang 20210805`
 
 General:
  - Fixup DRM Service issues ( Netflix, HOOQ, etc )
