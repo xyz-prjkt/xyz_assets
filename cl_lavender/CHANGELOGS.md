@@ -1,4 +1,8 @@
 # xdroid | Xiaomi Redmi Note 7 Specific Changes
+## 10/09/2021 | lavender
+Mainline:
+ - Initial Upgrade to 4.19.xxx
+
 ## 17/08/2021 | lavender
 Mainline:
  - Upstreamed `xBoreUp.strmbreakr to 4.4.280`
