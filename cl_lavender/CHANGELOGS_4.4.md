@@ -2,6 +2,7 @@
 ## 11/09/2021 | lavender
 Mainline:
  - Switch to HMP
+ - Switch to Xiaomi New Camera blobs
  - Upstreamed `xBoreUp.strmbreakr 4.4.283`
  - Updated toolchain `xRageTC Clang 14 20210906`
 
