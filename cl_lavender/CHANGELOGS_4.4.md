@@ -1,4 +1,18 @@
 # xdroid | Xiaomi Redmi Note 7 Specific Changes
+## 15/09/2021 | lavender
+Mainline:
+ - Switch to EAS
+ - Switch to Xiaomi Old Cam blobs
+ - Backport QTI Taptics Vibrator from v4.19.xxx
+
+General:
+ - Fix Camera2 video crash
+ - Fix EIS in few Camera apps
+ - Fix microphone in Google Recorder
+ - Change Vibrator Pattern from Coral
+ - Allow adjust vibrator instensity from Accesibility Settings
+ - Address some denials
+
 ## 11/09/2021 | lavender
 Mainline:
  - Switch to HMP
