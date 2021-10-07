@@ -1,4 +1,12 @@
 # xdroid | Xiaomi Redmi Note 7 Specific Changes
+## 07/10/2021 | lavender
+Mainline:
+ - Linux upstream `v4.4.285`
+
+General:
+ - Update Build FP Redfin to `RKQ1.210922.001`
+ - Fix few audio issue
+
 ## 15/09/2021 | lavender
 Mainline:
  - Switch to EAS
